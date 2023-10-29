@@ -1,6 +1,6 @@
 # 저자 별 카테고리 별 매출액 집계하기
 ### 문제 링크 : [https://school.programmers.co.kr/learn/courses/30/lessons/144856](https://school.programmers.co.kr/learn/courses/30/lessons/144856)
-### 키워드 : 3테이블 JOIN, LEFT, GROUP BY
+### 키워드 : 3테이블 JOIN, 특정 연월(2022-01) LEFT, GROUP BY
 ### 문제 설명
 <p>다음은 어느 한 서점에서 판매중인 도서들의 도서 정보(<code>BOOK</code>), 저자 정보(<code>AUTHOR</code>) 테이블입니다.</p>
 
