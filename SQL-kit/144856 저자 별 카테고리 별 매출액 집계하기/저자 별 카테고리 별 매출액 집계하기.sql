@@ -1,3 +1,5 @@
+-- 카테고리별 판매량*판매가 총합
+-- 2022년 01월 데이터에 한정
 SELECT B.AUTHOR_ID,
     C.AUTHOR_NAME,
     B.CATEGORY,
