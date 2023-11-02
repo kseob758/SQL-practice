@@ -1,6 +1,6 @@
 # 대여 횟수가 많은 자동차들의 월별 대여 횟수 구하기
 ### 문제 링크 : [https://school.programmers.co.kr/learn/courses/30/lessons/151139](https://school.programmers.co.kr/learn/courses/30/lessons/151139)
-### 키워드 : GROUP BY, HAVING, SUBQUERY, BETWEEN
+### 키워드 : GROUP BY, HAVING, SUBQUERY, BETWEEN, MONTH
 ### 문제 설명
 <p>다음은 어느 자동차 대여 회사의 자동차 대여 기록 정보를 담은 <code>CAR_RENTAL_COMPANY_RENTAL_HISTORY</code> 테이블입니다. <code>CAR_RENTAL_COMPANY_RENTAL_HISTORY</code> 테이블은 아래와 같은 구조로 되어있으며, <code>HISTORY_ID</code>, <code>CAR_ID</code>, <code>START_DATE</code>, <code>END_DATE</code> 는 각각 자동차 대여 기록 ID, 자동차 ID, 대여 시작일, 대여 종료일을 나타냅니다.</p>
 <table class="table">
