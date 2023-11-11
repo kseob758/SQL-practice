@@ -1,6 +1,6 @@
 # 가격대 별 상품 개수 구하기
 ### 문제 링크 : [https://school.programmers.co.kr/learn/courses/30/lessons/131530](https://school.programmers.co.kr/learn/courses/30/lessons/131530)
-### 키워드 : 몫과 나머지(/, %)
+### 키워드 : 몫과 나머지(/, %), FLOOR
 ### 문제 설명
 <p>다음은 어느 의류 쇼핑몰에서 판매중인 상품들의 정보를 담은 <code>PRODUCT</code> 테이블입니다. <code>PRODUCT</code> 테이블은 아래와 같은 구조로 되어있으며, <code>PRODUCT_ID</code>, <code>PRODUCT_CODE</code>, <code>PRICE</code>는 각각 상품 ID, 상품코드, 판매가를 나타냅니다.</p>
 <table class="table">
