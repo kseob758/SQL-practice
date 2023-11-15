@@ -1,6 +1,6 @@
 # NULL 처리하기
 ### 문제 링크 : [https://school.programmers.co.kr/learn/courses/30/lessons/59410](https://school.programmers.co.kr/learn/courses/30/lessons/59410)
-### 키워드 : IFNULL, NVL
+### 키워드 : IFNULL(MySQL NULL처리), NVL(Oracle NULL처리)
 ### 문제 설명
 <p><code>ANIMAL_INS</code> 테이블은 동물 보호소에 들어온 동물의 정보를 담은 테이블입니다. <code>ANIMAL_INS</code> 테이블 구조는 다음과 같으며, <code>ANIMAL_ID</code>, <code>ANIMAL_TYPE</code>, <code>DATETIME</code>, <code>INTAKE_CONDITION</code>, <code>NAME</code>, <code>SEX_UPON_INTAKE</code>는 각각 동물의 아이디, 생물 종, 보호 시작일, 보호 시작 시 상태, 이름, 성별 및 중성화 여부를 나타냅니다.</p>
 <table class="table">
