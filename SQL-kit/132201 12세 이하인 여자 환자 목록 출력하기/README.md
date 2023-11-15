@@ -1,6 +1,6 @@
 # 12세 이하인 여자 환자 목록 출력하기
 ### 문제 링크 : [https://school.programmers.co.kr/learn/courses/30/lessons/132201](https://school.programmers.co.kr/learn/courses/30/lessons/132201)
-### 키워드 : IFNULL
+### 키워드 : IFNULL(NULL인 경우 처리)
 ### 문제 설명
 <p>다음은 종합병원에 등록된 환자정보를 담은 <code>PATIENT</code> 테이블입니다. <code>PATIENT</code> 테이블은 다음과 같으며 <code>PT_NO</code>, <code>PT_NAME</code>, <code>GEND_CD</code>, <code>AGE</code>, <code>TLNO</code>는 각각 환자번호, 환자이름, 성별코드, 나이, 전화번호를 의미합니다.</p>
 <table class="table">
